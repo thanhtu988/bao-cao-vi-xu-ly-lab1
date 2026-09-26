@@ -1,0 +1,31 @@
+# ---- File trung gian khi build CubeIDE (khong can day len GitHub) ----
+Debug/**/*.o
+Debug/**/*.d
+Debug/**/*.su
+Debug/**/*.mk
+Debug/**/*.list
+Debug/makefile
+Debug/objects.list
+Debug/sources.mk
+Debug/objects.mk
+*.map
+*.elf
+*.bin
+
+# GIU LAI file .hex vi can de nap vao Proteus
+!Debug/*.hex
+
+# ---- File rieng cua may / cua Proteus ----
+*.workspace
+*.pdsbak
+.settings/org.eclipse.cdt.core.prefs
+.metadata/
+
+# ---- LaTeX ----
+BaoCao/*.aux
+BaoCao/*.log
+BaoCao/*.out
+BaoCao/*.toc
+BaoCao/*.synctex.gz
+BaoCao/*.fls
+BaoCao/*.fdb_latexmk

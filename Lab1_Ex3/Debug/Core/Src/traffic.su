@@ -1,0 +1,6 @@
+traffic.c:25:6:traffic_init	8	static
+traffic.c:31:6:traffic_tick_1s	4	static
+traffic.c:37:7:traffic_get_light	24	static
+traffic.c:51:9:traffic_get_countdown	24	static
+traffic.c:65:13:setDirection	16	static
+traffic.c:72:6:traffic_update	16	static

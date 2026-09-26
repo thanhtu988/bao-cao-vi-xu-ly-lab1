@@ -1,0 +1,4 @@
+Thu muc nay chua cac project Proteus 8.10 cua Lab 1.
+Moi file Lab1_ExN.pdsprj da gan san Program File = ..\Lab1_ExN\Debug\Lab1_ExN.hex
+Cach chay: mo file .pdsprj -> bam nut Play (goc duoi ben trai).
+Neu sua code: build lai trong STM32CubeIDE (Ctrl+B) roi chay lai mo phong, khong can gan lai file hex.
